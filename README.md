@@ -8,11 +8,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/Jyv9fFc/delete.png" alt="delete" border="0">
-<img src="https://i.ibb.co/CJcH6r5/edit.png" alt="edit" border="0">
-<img src="https://i.ibb.co/6Zdtj7N/info.png" alt="info" border="0">
-<img src="https://i.ibb.co/54PfPNT/main.png" alt="main" border="0">
-<img src="https://i.ibb.co/wJVtjhZ/newtask.png" alt="newtask" border="0">
+<img src="https://i.ibb.co/Jyv9fFc/delete.png" alt="delete" border="0" height="500" width="300">
+<img src="https://i.ibb.co/CJcH6r5/edit.png" alt="edit" border="0"  height="500" width="300">
+<img src="https://i.ibb.co/6Zdtj7N/info.png" alt="info" border="0"  height="500" width="300">
+<img src="https://i.ibb.co/54PfPNT/main.png" alt="main" border="0"  height="500" width="300">
+<img src="https://i.ibb.co/wJVtjhZ/newtask.png" alt="newtask" border="0"  height="500" width="300">
 
   
   

@@ -8,9 +8,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://awesomescreenshot.s3.amazonaws.com/image/4702429/50769540-fa2a3ac39a383ddd28818c4208ba0e32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20240925%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240925T195901Z&amp;X-Amz-Expires=28800&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d3acbf85ed188cdaa1fcc60392da4e01dc0df16c71ee6f320f93b38965e9369b" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://awesomescreenshot.s3.amazonaws.com/image/4702429/50769565-e0d7212942552f81bb543fa712c7f5b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20240925%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240925T200114Z&amp;X-Amz-Expires=28800&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=56ce199be97b5879205a6900d54dee6c1a9a803217cb50b89ce389027d55a7f5" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/Jyv9fFc/delete.png" alt="delete" border="0">
+<img src="https://i.ibb.co/CJcH6r5/edit.png" alt="edit" border="0">
+<img src="https://i.ibb.co/6Zdtj7N/info.png" alt="info" border="0">
+<img src="https://i.ibb.co/54PfPNT/main.png" alt="main" border="0">
+<img src="https://i.ibb.co/wJVtjhZ/newtask.png" alt="newtask" border="0">
 
   
   

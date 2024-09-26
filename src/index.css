@@ -305,16 +305,16 @@ ul::-webkit-scrollbar {
 
 @media only screen and (max-width:500px){
   body{
-    height: 100vh;
+    height: 100svh;
   }
   .itemDataForm {
-    zoom:100%;
+    zoom:normal;
   }
   .deleteContainer{
-    zoom:120%;
+    zoom:normal;
   }
   .container {
-    zoom: 120%;
+    zoom:normal;
 
   }
 }

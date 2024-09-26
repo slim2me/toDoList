@@ -314,7 +314,7 @@ ul::-webkit-scrollbar {
     zoom:normal;
   }
   .container {
-    zoom:105%;
+    zoom:normal;
 
   }
 }

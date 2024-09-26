@@ -301,3 +301,20 @@ ul::-webkit-scrollbar {
 .footerContent input::placeholder{
   color: rgb(137, 137, 137);
 }
+
+
+@media only screen and (max-width:500px){
+  body{
+    height: 100vh;
+  }
+  .itemDataForm {
+    zoom:100%;
+  }
+  .deleteContainer{
+    zoom:120%;
+  }
+  .container {
+    zoom: 120%;
+
+  }
+}

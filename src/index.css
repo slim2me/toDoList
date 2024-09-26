@@ -6,6 +6,7 @@
 body {
   background-color: #ffeaa7;
   min-height: 70vh;
+  height: 90vh;
   padding: 1rem;
   box-sizing: border-box;
   display: flex;
@@ -33,6 +34,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  zoom:170%;
+
+
 }
 .header {
   display: flex;
@@ -176,7 +180,7 @@ hr{
 }
 
 .deleteContainer{
-
+  zoom:150%;
   font-size: 0.8rem;
 }
 
@@ -235,6 +239,8 @@ ul::-webkit-scrollbar {
   flex-direction: column;
   gap: 10px;
   margin-top: 10px;
+  zoom:150%;
+
 }
 
 .itemDataForm label {

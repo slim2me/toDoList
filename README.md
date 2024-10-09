@@ -1,7 +1,7 @@
 
 <h1 align="center" id="title">Todo List</h1>
 
-<p align="center"><img src="https://socialify.git.ci/slim2me/toDoList/image?description=1&descriptionEditable=This%20simple%20React%20to-do%20list%20app%20enables%20users%20to%20manage%20tasks%20efficiently%20by%20adding%2C%20marking%20as%20completed%2C%20and%20removing%20items.&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="toDoList" width="640" height="320" /></p>
+<p align="center"><img src="https://socialify.git.ci/slim2me/toDoList/image?description=1&descriptionEditable=This%20simple%20React%20to-do%20list%20app%20enables%20users%20to%20manage%20tasks%20efficiently%20by%20adding%2C%20marking%20as%20completed%2C%20and%20removing%20items.&font=Jost&forks=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="toDoList" width="1024" height="720" /></p>
 
 <h2>🚀 Demo</h2>
 
